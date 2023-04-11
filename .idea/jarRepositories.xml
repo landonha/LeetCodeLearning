@@ -2,9 +2,24 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="confluent" />
+      <option name="name" value="Confluent" />
+      <option name="url" value="https://packages.confluent.io/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aksw" />
+      <option name="name" value="aksw" />
+      <option name="url" value="https://maven.aksw.org/repository/internal/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="beaconfire-maven-central" />
+      <option name="name" value="beaconfire-maven-central" />
+      <option name="url" value="https://beaconfire-795824851990.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
