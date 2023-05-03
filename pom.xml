@@ -24,12 +24,6 @@
     </dependency>
 
     <dependency>
-      <groupId>com.beaconfire.base</groupId>
-      <artifactId>audit-utils</artifactId>
-      <version>1.1.0</version>
-    </dependency>
-
-    <dependency>
       <groupId>io.argoproj.workflow</groupId>
       <artifactId>argo-client-java</artifactId>
       <version>v3.4.3</version>
